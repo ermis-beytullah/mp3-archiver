@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mp3archiver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mp3archiver_jar</output-path>
+    <root id="archive" name="mp3archiver.jar">
+      <element id="module-output" name="mp3archiver" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/h2database/h2/1.4.197/h2-1.4.197.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/mpatric/mp3agic/0.9.1/mp3agic-0.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-servlet/9.2.11.M0/jetty-servlet-9.2.11.M0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-security/9.2.11.M0/jetty-security-9.2.11.M0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.2.11.M0/jetty-server-9.2.11.M0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-http/9.2.11.M0/jetty-http-9.2.11.M0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.2.11.M0/jetty-util-9.2.11.M0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-io/9.2.11.M0/jetty-io-9.2.11.M0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
